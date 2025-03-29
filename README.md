@@ -1,4 +1,4 @@
-# CROP PRODUCTION DATA ANALYSIS- INDIA 
+# CROP PRODUCTION DATA ANALYSIS (INDIA) 
   Crop production data analysis involves examining agricultural data to gain insights into patterns, trends, and factors affecting crop yields. This process uses historical and current 
 data related to farming practices, environmental conditions, and economic factors to inform decision-making. By leveraging statistical and visualization techniques, stakeholders like 
 farmers, policymakers, and researchers can identify opportunities for improving productivity, sustainability, and profitability in agriculture.
